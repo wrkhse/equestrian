@@ -82,7 +82,7 @@ web, and subagent tools; skills are available as `skill://` resources.
 
 - [ ] Deliver the terminal coding workflow and matching browser workflow
 - [ ] Add supervisor memory, friction measurements, approvals, steering, and grants
-- [ ] Publish equestrian 0.1.0 to the stevenjpx2/taps tap
+- [ ] Publish equestrian 0.1.0 to the wrkhse/tap tap
 
 ## More
 
